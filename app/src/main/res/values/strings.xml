@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cadastro_Jogo</string>
+    <string name="cadastro_com_sucesso">O jogo %1$s é de %2$s e foi lançado em %3$d</string>
+</resources>
